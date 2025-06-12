@@ -1,6 +1,6 @@
 <!-- Clickable Levi Ackerman Banner -->
 <p align="center">
-  <a href="https://moewalls.com/anime/levi-rage-mode-attack-on-titan-live-wallpaper/" target="_blank">
+  <a href="(https://moewalls.com/anime/levi-rage-mode-attack-on-titan-live-wallpaper/)" target="_blank">
     <img src="https://media.tenor.com/qYNOkwW7K2wAAAAd/levi-ackerman-attack-on-titan.gif" alt="Levi Ackerman Live Wallpaper" width="100%" />
   </a>
 </p>
