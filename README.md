@@ -1,15 +1,18 @@
 <!-- Clickable Levi Ackerman Banner -->
+<!-- Levi Ackerman Banner -->
 <p align="center">
-  <a href="(https://moewalls.com/anime/levi-rage-mode-attack-on-titan-live-wallpaper/)" target="_blank">
-    <img src="https://media.tenor.com/qYNOkwW7K2wAAAAd/levi-ackerman-attack-on-titan.gif" alt="Levi Ackerman Live Wallpaper" width="100%" />
-  </a>
+  <img src="https://player.cloudinary.com/embed/?cloud_name=dvssfq6te&public_id=levi-rage-mode-attack-on-titan-moewalls-com_pewdv6_75ffad&player[autoplay]=true&player[autoplayMode]=on-scroll&player[muted]=true&player[loop]=true&player[controls]=false)" />
 </p>
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Divyanshu Rai</h1>
 <h3 align="center">A passionate developer, problem-solver & tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ---
