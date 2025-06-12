@@ -1,18 +1,24 @@
-<!-- Profile Header -->
+<!-- Clickable Levi Ackerman Banner -->
+<p align="center">
+  <a href="https://moewalls.com/anime/levi-rage-mode-attack-on-titan-live-wallpaper/" target="_blank">
+    <img src="https://media.tenor.com/qYNOkwW7K2wAAAAd/levi-ackerman-attack-on-titan.gif" alt="Levi Ackerman Live Wallpaper" width="100%" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Divyanshu Rai</h1>
 <h3 align="center">A passionate developer, problem-solver & tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently building **RelocEase** — a startup project to help people sell household items during relocation
-- 💬 Ask me about **Java, Python, Web Development, Operating Systems, and AI prompts**
-- 🎯 Focused on creating a **powerful project portfolio** to land great opportunities
+- 🌱 Currently building **RelocEase** — a startup project to help people sell household items during relocation  
+- 💬 Ask me about **Java, Python, Web Development, Operating Systems, and AI prompts**  
+- 🎯 Focused on creating a **powerful project portfolio** to land great opportunities  
 - 📫 Reach me at: **[raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)**  
 - ✨ Fun Fact: I ideate best with chai & solve bugs like puzzles
 
@@ -42,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshurai27&theme=github-dark-blue" width="48%" />
+  <img src="https://github-readme-stats.herokuapp.com/?user=divyanshurai27&theme=github-dark-blue" width="48%" />
 </p>
 
 <p align="center">
@@ -70,4 +76,11 @@ Here are a few highlights:
 
 ---
 
-⭐️ *Thanks for stopping by! Let's create something awesome toge*
+## 🕒 Last Updated
+
+> 🗓️ UTC Time: `2025-06-12 08:00:00`  
+> 🧮 Unix Timestamp: `1718179200`
+
+---
+
+⭐️ *Thanks for stopping by! Let's create something awesome together.*
