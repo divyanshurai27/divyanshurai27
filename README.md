@@ -1,7 +1,7 @@
 <!-- Clickable Levi Ackerman Banner -->
 <!-- Levi Ackerman Banner -->
 <p align="center">
-  <img src="https://player.cloudinary.com/embed/?cloud_name=dvssfq6te&public_id=levi-rage-mode-attack-on-titan-moewalls-com_pewdv6_75ffad&player[autoplay]=true&player[autoplayMode]=on-scroll&player[muted]=true&player[loop]=true&player[controls]=false)" />
+  <img src="(https://player.cloudinary.com/embed/?cloud_name=dvssfq6te&public_id=levi-rage-mode-attack-on-titan-moewalls-com_pewdv6_75ffad&profile=cld-adaptive-stream)" />
 </p>
 
 
