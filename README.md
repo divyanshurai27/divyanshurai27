@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer, problem-solver & tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ---
