@@ -30,7 +30,6 @@
 
 ### 👨‍💻 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend & Backend  
@@ -51,20 +50,36 @@
 <!-- GitHub Stats Section -->
 <p align="center">
   <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" width="48%" alt="Divyanshu's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark&hide_border=true"
+    width="48%"
+    alt="Divyanshu's GitHub Stats"
+  />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=divyanshurai27&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Divyanshu's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=divyanshurai27&theme=github-dark&hide_border=true"
+    width="48%"
+    alt="Divyanshu's GitHub Streak"
+  />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    width="40%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&theme=darkhub&no-frame=true&row=1&column=7" width="90%" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&theme=darkhub&no-frame=true&row=1&column=7"
+    width="90%"
+    alt="GitHub Trophies"
+  />
 </p>
 
 
@@ -75,7 +90,6 @@
 Here are a few highlights:
 - 🛋️ **RelocEase** – Helping users sell household items quickly while relocating  
 - ⚙️ **OS Simulator** – CPU scheduling visualizer for better understanding of OS concepts  
-- 🧠 **ML Classifier Suite** – Built machine learning classifiers from scratch with evaluation tools  
 
 👉 [View All My Repositories](https://github.com/divyanshurai27?tab=repositories)
 
