@@ -46,19 +46,18 @@
 ---
 
 ## 📈 GitHub Stats
-
 <!-- GitHub Stats Section -->
 <p align="center">
   <!-- GitHub Profile Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"
     width="48%"
     alt="Divyanshu's GitHub Stats"
   />
 
   <!-- GitHub Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=divyanshurai27&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=divyanshurai27&amp;theme=github-dark&amp;hide_border=true"
     width="48%"
     alt="Divyanshu's GitHub Streak"
   />
@@ -67,7 +66,7 @@
 <p align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8"
     width="40%"
     alt="Top Languages"
   />
@@ -76,11 +75,12 @@
 <p align="center">
   <!-- GitHub Trophies -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&theme=darkhub&no-frame=true&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7"
     width="90%"
     alt="GitHub Trophies"
   />
 </p>
+
 
 
 ---
