@@ -1,172 +1,113 @@
-# README.md
-
-````markdown
+<!-- Clickable Levi Ackerman Banner -->
 <!-- Levi Ackerman Banner -->
 <img src="https://github.com/user-attachments/assets/8685e0e2-3608-45f4-9991-effc1fa5068c" />
 
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Divyanshu Rai</h1>
-<h3 align="center">Full Stack Developer • AI Engineer • Building Real-World Products</h3>
+<h3 align="center">A passionate developer, problem-solver & tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineer;Building+Production+Grade+RAG+Systems;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!&center=true&width=700&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently building **RelocEase** — a startup project to help people sell household items during relocation  
+- 💬 Ask me about **Java, Python, Web Development, Operating Systems, and AI prompts**  
+- 🎯 Focused on creating a **powerful project portfolio** to land great opportunities  
+- 📫 Reach me at: **[raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)**  
+- ✨ Fun Fact: I ideate best with chai & solve bugs like puzzles
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend & Backend  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🔧 Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyanshurai27&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/divyanshurai27?label=Followers&style=for-the-badge" />
-</p>
+  <!-- GitHub Profile Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"
+    width="48%"
+    alt="Divyanshu's GitHub Stats"
+  />
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **AskMyDocs** — A Production-Grade RAG System
-- 🛋️ Building **Reloc** — A relocation marketplace startup
-- 🤖 Interested in AI Engineering, LLMOps, Retrieval Systems & Full Stack Development
-- 💡 Passionate about building products that solve real-world problems
-- 🎯 Goal: Become a Software Engineer building impactful products
-- ⚡ Fun Fact: I enjoy debugging complex issues more than writing simple code
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-### 🌐 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🤖 AI / LLM Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangSmith-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sentence_Transformers-orange?style=for-the-badge" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AskMyDocs
-
-Production-grade Retrieval-Augmented Generation (RAG) System featuring:
-
-- Hybrid Retrieval
-- ChromaDB Vector Database
-- Hugging Face Embeddings
-- Cross Encoder Reranking
-- LangChain Pipelines
-- LangSmith Monitoring
-- Multi-Document Support
-- Evaluation Framework
-
-### 🛋️ Reloc
-
-Relocation-focused marketplace helping people buy and sell household items efficiently.
-
-### ⚙️ OS Simulator
-
-Interactive platform for understanding Operating System concepts and CPU Scheduling algorithms.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-
-  <img src="https://streak-stats.demolab.com?user=divyanshurai27&theme=github-dark&hide_border=true" width="48%" />
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=divyanshurai27&amp;theme=github-dark&amp;hide_border=true"
+    width="48%"
+    alt="Divyanshu's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&layout=compact&theme=github_dark&hide_border=true" />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8"
+    width="40%"
+    alt="Top Languages"
+  />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&theme=darkhub&no-frame=true&row=1&column=7" />
+  <!-- GitHub Trophies -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7"
+    width="90%"
+    alt="GitHub Trophies"
+  />
 </p>
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshurai27&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
-## 🎯 Current Focus
+## 🧠 Projects
 
-```text
-🚀 Building AskMyDocs
-🛋️ Developing Reloc
-🤖 Learning AI Engineering & LLMOps
-🌐 Improving Full Stack Development Skills
-📚 Practicing DSA & System Design
-💼 Preparing for Software Engineering Opportunities
-````
+Here are a few highlights:
+- 🛋️ **RelocEase** – Helping users sell household items quickly while relocating  
+- ⚙️ **OS Simulator** – CPU scheduling visualizer for better understanding of OS concepts  
+
+👉 [View All My Repositories](https://github.com/divyanshurai27?tab=repositories)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-<p align="left">
-<a href="mailto:raidivyanshu133@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/divyanshurai27">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/divyanshurai27">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+- 📧 Email: [raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/divyanshurai27](https://www.linkedin.com/in/divyanshurai27)  
+- 🖥️ GitHub: [github.com/divyanshurai27](https://github.com/divyanshurai27)
 
 ---
 
-## 💭 Quote
+## 🕒 Last Updated
 
-> "Build things that solve real problems, and opportunities will follow."
+> 🗓️ UTC Time: `2025-06-12 08:00:00`  
+> 🧮 Unix Timestamp: `1718179200`
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-```
-```
+⭐️ *Thanks for stopping by! Let's create something awesome together.*
