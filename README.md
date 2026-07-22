@@ -18,8 +18,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently building **RelocEase** — a startup project to help people sell household items during relocation  
-- 💬 Ask me about **Java, Python, Web Development, Operating Systems, and AI prompts**  
+- 🌱 Currently building **RelocEase** and scaling **TaskFlow** (Event-Driven Microservices)
+- 💬 Ask me about **Java, Python, Web Development, Microservices, and AI**  
 - 🎯 Focused on creating a **powerful project portfolio** to land great opportunities  
 - 📫 Reach me at: **[raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)**  
 - ✨ Fun Fact: I ideate best with chai & solve bugs like puzzles
@@ -88,6 +88,7 @@
 ## 🧠 Projects
 
 Here are a few highlights:
+- 🚀 **[TaskFlow](https://github.com/divyanshurai27/TaskManager)** – An event-driven microservice architecture built with Node.js, RabbitMQ, MongoDB, and Docker.
 - 🛋️ **RelocEase** – Helping users sell household items quickly while relocating  
 - ⚙️ **OS Simulator** – CPU scheduling visualizer for better understanding of OS concepts  
 
