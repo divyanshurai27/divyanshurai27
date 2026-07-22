@@ -31,17 +31,25 @@
 ### 👨‍💻 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Frontend & Backend  
+### 🌐 Web & AI  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🔧 Tools & Technologies  
+### 🗄️ Databases & Messaging  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=chroma&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🔧 Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -50,14 +58,14 @@
 <p align="center">
   <!-- GitHub Profile Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark&hide_border=true"
     width="48%"
     alt="Divyanshu's GitHub Stats"
   />
 
   <!-- GitHub Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=divyanshurai27&amp;theme=github-dark&amp;hide_border=true"
+    src="https://streak-stats.demolab.com?user=divyanshurai27&theme=github-dark&hide_border=true"
     width="48%"
     alt="Divyanshu's GitHub Streak"
   />
@@ -66,7 +74,7 @@
 <p align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     width="40%"
     alt="Top Languages"
   />
@@ -75,7 +83,7 @@
 <p align="center">
   <!-- GitHub Trophies -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7"
+    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&theme=darkhub&no-frame=true&row=1&column=7"
     width="90%"
     alt="GitHub Trophies"
   />
