@@ -97,7 +97,7 @@
 
 Here are a few highlights:
 - 🚀 **[TaskFlow](https://github.com/divyanshurai27/TaskManager)** – An event-driven microservice architecture built with Node.js, RabbitMQ, MongoDB, and Docker.
-- 🧠 **AskMyDocs** – An AI-powered RAG document Q&A system built with Python, LangChain, ChromaDB, and Groq (Llama 3.1).
+- 🧠 **[AskMyDocs](https://github.com/divyanshurai27/ask-my-doc)** – An AI-powered RAG document Q&A system built with Python, LangChain, ChromaDB, and Groq (Llama 3.1).
 - ⚙️ **OS Simulator** – CPU scheduling visualizer for better understanding of OS concepts  
 
 👉 [View All My Repositories](https://github.com/divyanshurai27?tab=repositories)
