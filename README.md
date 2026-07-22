@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently building **RelocEase** and scaling **TaskFlow** (Event-Driven Microservices)
+- 🌱 Currently building **AskMyDocs** (RAG AI QA System) and scaling **TaskFlow** (Event-Driven Microservices)
 - 💬 Ask me about **Java, Python, Web Development, Microservices, and AI**  
 - 🎯 Focused on creating a **powerful project portfolio** to land great opportunities  
 - 📫 Reach me at: **[raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)**  
@@ -89,7 +89,7 @@
 
 Here are a few highlights:
 - 🚀 **[TaskFlow](https://github.com/divyanshurai27/TaskManager)** – An event-driven microservice architecture built with Node.js, RabbitMQ, MongoDB, and Docker.
-- 🛋️ **RelocEase** – Helping users sell household items quickly while relocating  
+- 🧠 **AskMyDocs** – An AI-powered RAG document Q&A system built with Python, LangChain, ChromaDB, and Groq (Llama 3.1).
 - ⚙️ **OS Simulator** – CPU scheduling visualizer for better understanding of OS concepts  
 
 👉 [View All My Repositories](https://github.com/divyanshurai27?tab=repositories)
