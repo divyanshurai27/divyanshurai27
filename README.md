@@ -1,122 +1,116 @@
-<!-- Clickable Levi Ackerman Banner -->
-<!-- Levi Ackerman Banner -->
-<img src="https://github.com/user-attachments/assets/8685e0e2-3608-45f4-9991-effc1fa5068c" />
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Divyanshu Rai</h1>
-<h3 align="center">A passionate developer, problem-solver & tech enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Build+Cool+Stuff!" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🌱 Currently building **AskMyDocs** (RAG AI QA System) and scaling **TaskFlow** (Event-Driven Microservices)
-- 💬 Ask me about **Java, Python, Web Development, Microservices, and AI**  
-- 🎯 Focused on creating a **powerful project portfolio** to land great opportunities  
-- 📫 Reach me at: **[raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)**  
-- ✨ Fun Fact: I ideate best with chai & solve bugs like puzzles
-
----
-
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web & AI  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 🗄️ Databases & Messaging  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=chroma&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### 🔧 Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-<!-- GitHub Stats Section -->
-<p align="center">
-  <!-- GitHub Profile Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=divyanshurai27&show_icons=true&theme=github_dark&hide_border=true"
-    width="48%"
-    alt="Divyanshu's GitHub Stats"
-  />
-
-  <!-- GitHub Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=divyanshurai27&theme=github-dark&hide_border=true"
-    width="48%"
-    alt="Divyanshu's GitHub Streak"
-  />
+  <a href="https://divyanshu-rai-portfolio.vercel.app">
+    <img src="assets/banner.png" alt="Divyanshu Rai — Full-Stack Developer" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurai27&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    width="40%"
-    alt="Top Languages"
-  />
+  <a href="https://divyanshu-rai-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=E32B3C&center=true&vCenter=true&width=640&height=36&lines=I+build+full-stack+products+%E2%80%94+then+I+try+to+break+them.;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%26+LLM+apps;QA+Intern+%40+Pickcel+%E2%80%94+Bengaluru%2C+India;Open+to+internship+opportunities" alt="I build full-stack products — then I try to break them." />
+  </a>
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=divyanshurai27&theme=darkhub&no-frame=true&row=1&column=7"
-    width="90%"
-    alt="GitHub Trophies"
-  />
+  <a href="https://divyanshu-rai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-divyanshu--rai--portfolio.vercel.app-E32B3C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/divyanshurai27"><img src="https://img.shields.io/badge/LinkedIn-divyanshurai27-E32B3C?style=for-the-badge&labelColor=0D0D0D" alt="LinkedIn" /></a>
+  <a href="mailto:raidivyanshu133@gmail.com"><img src="https://img.shields.io/badge/Email-raidivyanshu133-E32B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" alt="Email" /></a>
+  <a href="https://leetcode.com/u/divyanshurai_27"><img src="https://img.shields.io/badge/LeetCode-250%2B_solved-E32B3C?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0D0D" alt="LeetCode" /></a>
 </p>
 
+<br />
 
+## `01` &nbsp;About
 
----
+```ts
+const divyanshu = {
+  role:     "Full-Stack Developer",
+  now:      "QA Intern @ Pickcel — testing a web CMS & Android builds end to end",
+  before:   "Software Engineering Intern @ Vaultofcodes — 15+ REST endpoints, 25+ PRs",
+  location: "Bengaluru, India",
+  building: ["React frontends", "REST & event-driven backends", "RAG / LLM apps"],
+  askMeAbout: ["Java", "Node.js", "Microservices", "RAG pipelines", "DSA"],
+  funFact:  "I ideate best with chai ☕ and solve bugs like puzzles",
+};
+```
 
-## 🧠 Projects
+## `02` &nbsp;Featured work
 
-Here are a few highlights:
-- 🚀 **[TaskFlow](https://github.com/divyanshurai27/TaskManager)** – An event-driven microservice architecture built with Node.js, RabbitMQ, MongoDB, and Docker.
-- 🧠 **[AskMyDocs](https://github.com/divyanshurai27/ask-my-doc)** – An AI-powered RAG document Q&A system built with Python, LangChain, ChromaDB, and Groq (Llama 3.1).
-- ⚙️ **OS Simulator** – CPU scheduling visualizer for better understanding of OS concepts  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/divyanshurai27/AI-Powered-Hyperlocal-Air-Quality-and-Personalized-Respiratory-Health-Alert-System">AeroGard</a></h3>
+      <sub><b>AI / ML</b> · 2026</sub>
+      <p>24-hour air-quality forecasts for Bengaluru turned into personalised, explainable respiratory-risk alerts for asthma and COPD patients.</p>
+      <p><b>+23%</b> PM2.5 forecast vs persistence<br /><b>0.71</b> risk AUROC <sub>(synthetic cohort)</sub></p>
+      <code>FastAPI</code> <code>PostgreSQL</code> <code>LightGBM</code> <code>SHAP</code> <code>Pytest</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/divyanshurai27/ask-my-doc">Ask My Docs</a></h3>
+      <sub><b>AI / LLM</b> · 2026</sub>
+      <p>Cited question-answering over private PDF, Markdown and TXT documents, with hybrid BM25 + dense retrieval and a switchable OpenAI / Groq backend.</p>
+      <p><b>1.00</b> Ragas faithfulness<br /><b>33</b> Pytest tests in CI</p>
+      <code>Python</code> <code>LangChain</code> <code>ChromaDB</code> <code>Groq</code> <code>Ragas</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/divyanshurai27/TaskManager">TaskFlow</a></h3>
+      <sub><b>Backend</b> · 2026</sub>
+      <p>A task-management backend split into three Node.js microservices that talk through RabbitMQ events, with a dead-letter queue and one-command Docker setup.</p>
+      <p><b>3</b> services · <b>3</b> event types<br /><b>E2E</b> flow test in GitHub Actions</p>
+      <code>Node.js</code> <code>Express</code> <code>RabbitMQ</code> <code>MongoDB</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/divyanshurai27/Bookstore">Bookstore</a></h3>
+      <sub><b>Web App</b> · 2026</sub>
+      <p>A full-stack MERN book catalog with signup and login, built solo from the React UI to the MongoDB data model.</p>
+      <p><b>10</b> reusable components<br /><b>46</b> commits, UI to database</p>
+      <code>React</code> <code>Tailwind</code> <code>Express</code> <code>MongoDB</code> <code>bcrypt</code>
+    </td>
+  </tr>
+</table>
 
-👉 [View All My Repositories](https://github.com/divyanshurai27?tab=repositories)
+<p align="center"><a href="https://divyanshu-rai-portfolio.vercel.app/#work"><b>See the case studies on my portfolio →</b></a></p>
 
----
+## `03` &nbsp;Stack
 
-## 📫 Connect with Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,html,css,react,nextjs,tailwind,nodejs,express&theme=dark&perline=12" alt="Java, JavaScript, TypeScript, Python, C, HTML, CSS, React, Next.js, Tailwind, Node.js, Express" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,rabbitmq,docker,aws,firebase,git,githubactions,vscode,postman&theme=dark&perline=11" alt="FastAPI, MongoDB, PostgreSQL, RabbitMQ, Docker, AWS, Firebase, Git, GitHub Actions, VS Code, Postman" />
+</p>
 
-- 📧 Email: [raidivyanshu133@gmail.com](mailto:raidivyanshu133@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/divyanshurai27](https://www.linkedin.com/in/divyanshurai27)  
-- 🖥️ GitHub: [github.com/divyanshurai27](https://github.com/divyanshurai27)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0D0D0D?style=flat-square&logo=langchain&logoColor=E32B3C" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI_&_Groq_APIs-0D0D0D?style=flat-square" alt="OpenAI & Groq APIs" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0D0D0D?style=flat-square" alt="RAG pipelines" />
+  <img src="https://img.shields.io/badge/ChromaDB-0D0D0D?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/LightGBM-0D0D0D?style=flat-square" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Pytest-0D0D0D?style=flat-square&logo=pytest&logoColor=E32B3C" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Ragas-0D0D0D?style=flat-square" alt="Ragas" />
+</p>
 
----
+## `04` &nbsp;Wins
 
-## 🕒 Last Updated
+- **Team Lead, Smart India Hackathon** — led a 6-member team through the internal and national rounds
+- **Backend Lead, ChipToCrop Hackathon** — shipped the REST API and data layer for an agri-tech platform in 36 hours
+- **Top 12 of 990** at Innovation Tech 2024 — 5+ hackathons, 2 Top-5 finishes
+- **250+ DSA problems** solved across LeetCode and other platforms
 
-> 🗓️ UTC Time: `2025-06-12 08:00:00`  
-> 🧮 Unix Timestamp: `1718179200`
+## `05` &nbsp;Activity
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyanshurai27&background=0D0D0D&border=1F1F1F&ring=E32B3C&fire=E32B3C&currStreakNum=F2EFEB&sideNums=F2EFEB&currStreakLabel=E32B3C&sideLabels=A09C9A&dates=A09C9A&stroke=2A2A2A&border_radius=12&disable_animations=true" alt="GitHub streak" width="80%" />
+</p>
 
-⭐️ *Thanks for stopping by! Let's create something awesome together.*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshurai27/divyanshurai27/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshurai27/divyanshurai27/output/snake-light.svg" />
+    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/divyanshurai27/divyanshurai27/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Built the same way I build everything — then tested it twice. &nbsp;·&nbsp; <a href="https://divyanshu-rai-portfolio.vercel.app">divyanshu-rai-portfolio.vercel.app</a></sub>
+</p>
